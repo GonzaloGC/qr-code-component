@@ -1,0 +1,25 @@
+:root {
+  /* Colors */
+  --White: hsl(0, 0%, 100%);
+  --Light-gray: hsl(212, 45%, 89%);
+  --Grayish-blue: hsl(220, 15%, 55%);
+  --Dark-blue: hsl(218, 44%, 22%);
+}
+
+body{
+    /* font-family: ; */
+    font-size: 15px;
+}
+
+.card-qr{
+    border: 2px solid black;
+    width: 375px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
